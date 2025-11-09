@@ -3,5 +3,5 @@ def second_largest(lst):
     lst.sort()
     return lst[-2]
 
-nums = [12, 45, 23, 45, 67, 89]
+nums = [53,95,80,55,65,43,76,54,66,65,43]
 print("Second Largest:", second_largest(nums))
