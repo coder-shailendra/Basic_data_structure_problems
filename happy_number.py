@@ -18,6 +18,6 @@ def isHappy(n):
 
             mem.add(n)
 
-        return True
+return True
 print(isHappy(95))
 print(isHappy(32))
